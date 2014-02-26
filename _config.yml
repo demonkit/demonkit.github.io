@@ -1,10 +1,10 @@
-auto: true
+safe:        false
+auto:        false
 
-markdown: rdiscount
-pygments: true
-paginate: 10
-permalink: /:title
+source:      .
+destination: ./_site
+plugins:     ./_plugins
 
-title: demonkit.gitgub.io
-url: http://demonkit.github.io
-author_info: <a href="http://demonkit.github.io/">demonkit</a>
+future:      true
+lsi:         false
+pygments:    false
