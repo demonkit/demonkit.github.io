@@ -1,4 +1,4 @@
-title:            seoaqua's blog
+title:            Demonkitsssss' blog
 description:      'python,linux,ml,nlp'
 disqus_shortname: seoaqua
 #Your site's domain goes here. Leave localhost server or blank when working locally.
@@ -8,7 +8,7 @@ url:              http://demonkit.github.io
 owner:
   name:           Demonkit
   avatar:         avatar.jpg
-  bio:            'python programmer/ml programmer/hadoop learner'
+  bio:            'python programmer, ml programmer, hadoop learner'
   email:          yydemonkit@gmail.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:
@@ -36,7 +36,7 @@ bing_verify:
 links:
   - title: tags
     url: /tags/
-  - title: my github
+  - title: Github
     url: http://github.com/demonkit/
     external: true
   - title: 豆瓣
